@@ -63,6 +63,10 @@ Jupyter Notebookでipynbファイルを開いてください。
  
 　　また、本サンプルはKaggle上のNotebookとしても用意しています。<br>
 　　https://www.kaggle.com/kazuhito00/pycaret-binary-classification-titanic-sample
+  
+# Note
+PyCaretとは直接関係ないですが、参考にしたい記事
+* [【随時更新】Kaggleテーブルデータコンペできっと役立つTipsまとめ](https://naotaka1128.hatenadiary.jp/entry/kaggle-compe-tips)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
