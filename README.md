@@ -45,6 +45,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 　　PyCaretのチュートリアルのほぼ写経＋日本語コメントです。<br>
 　　※言語モデルのダウンロードと設置が必須のためBinderのリンクは用意していません
  
+　　<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kazuhito00/PyCaret-Learn/master?filepath=05.Natural-Language-Processing-Sample/05.Natural-Language-Processing-Sample.ipynb)<br>　　※compare_models()やtune_model()の実行時間が少々長いため注意 -->
  
 * <b>06.Association-Rule-Mining-Sample</b>
 
