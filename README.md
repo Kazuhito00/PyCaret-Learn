@@ -45,6 +45,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 　　PyCaretのチュートリアルのほぼ写経＋日本語コメントです。<br>
 　　※言語モデルのダウンロードと設置が必須のためBinderのリンクは用意していません
  
+ 
 * <b>06.Association-Rule-Mining-Sample</b>
 
 　　相関ルールマイニングのサンプルです。<br>
