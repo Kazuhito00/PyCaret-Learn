@@ -70,7 +70,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 参考にしたい記事
 * [PyCaretでできる前処理について調べてみた](https://qiita.com/tomiyou/items/e1842775e7aaee04ada3)
 
-* [PyCaretでできる前処理について調べてみた](https://qiita.com/ground0state/items/57e565b23770e5a323e9)
+* [Pycaretの回帰・分類で出力されるグラフの種類について解説](https://qiita.com/ground0state/items/57e565b23770e5a323e9)
   
 # Note2
 PyCaretとは直接関係ないですが、参考にしたい記事
