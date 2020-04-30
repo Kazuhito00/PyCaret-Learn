@@ -77,6 +77,8 @@ PyCaretとは直接関係ないですが、参考にしたい記事
 * [【随時更新】Kaggleテーブルデータコンペできっと役立つTipsまとめ](https://naotaka1128.hatenadiary.jp/entry/kaggle-compe-tips)
 <!-- https://trueman-developer.blogspot.com/2019/07/keras.html -->
 
+* [pythonではじめるデータ分析 (データ前処理〜機械学習)](https://qiita.com/CEML/items/b7dc768d1df66e809e5a)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
