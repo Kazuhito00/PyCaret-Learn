@@ -79,6 +79,8 @@ PyCaretとは直接関係ないですが、参考にしたい記事
 
 * [pythonではじめるデータ分析 (データ前処理〜機械学習)](https://qiita.com/CEML/items/b7dc768d1df66e809e5a)
 
+* [機械学習モデルの説明性・解釈性について -SHAPによる実践あり-](https://cpp-learning.com/interpretable-model/)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
