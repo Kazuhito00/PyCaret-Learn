@@ -62,7 +62,6 @@ Jupyter Notebookでipynbファイルを開いてください。
 　　KaggleのTitanicのサンプルです（Public Leaderboard Score：0.79904）
 
 　　<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kazuhito00/PyCaret-Learn/master?filepath=10.Binary-Classification-Titanic-Sample/10.Binary-Classification-Titanic-Sample.ipynb)<br>　　※compare_models()やtune_model()の実行時間が少々長いため注意 -->
- 
 　　また、本サンプルはKaggle上のNotebookとしても用意しています。<br>
 　　https://www.kaggle.com/kazuhito00/pycaret-binary-classification-titanic-sample
   
