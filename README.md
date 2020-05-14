@@ -80,6 +80,8 @@ PyCaretとは直接関係ないですが、参考にしたい記事
 
 * [機械学習モデルの説明性・解釈性について -SHAPによる実践あり-](https://cpp-learning.com/interpretable-model/)
 
+* [特徴量エンジニアリング備忘録](https://qiita.com/risako_/items/91ea7f34433bfa2ea40c)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
