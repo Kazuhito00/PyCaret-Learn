@@ -82,6 +82,8 @@ PyCaretとは直接関係ないですが、参考にしたい記事
 
 * [特徴量エンジニアリング備忘録](https://qiita.com/risako_/items/91ea7f34433bfa2ea40c)
 
+* [PythonとAutoMLメモ](https://qiita.com/calderarie/items/6188ce60c3e3dc2c6ba0)/[featuretoolsメモ](https://qiita.com/Hyperion13fleet/items/4eaca365f28049fe11c7)/[tsfreshメモ](https://qiita.com/KI1208/items/e27f827bac8654c9adcc)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
