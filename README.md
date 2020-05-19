@@ -51,7 +51,6 @@ Jupyter Notebookでipynbファイルを開いてください。
 
 　　相関ルールマイニングのサンプルです。<br>
 　　PyCaretのチュートリアルのほぼ写経＋日本語コメントです
-
 　　<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kazuhito00/PyCaret-Learn/master?filepath=06.Association-Rule-Mining-Sample/06.Association-Rule-Mining-Sample.ipynb) -->
 
 # Extra Contents
