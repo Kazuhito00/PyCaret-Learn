@@ -68,7 +68,8 @@ Jupyter Notebookでipynbファイルを開いてください。
 
 * <b>11.Regression-Ion-Switching-Competition</b>
 
-　　Kaggleの[University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) のサンプルです（Public Leaderboard Score：0.937）<br>
+　　Kaggleの[University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) のサンプルです（Public Leaderboard Score：0.937）
+  
 　　コンペのデータの他に、以下のドリフトデータ除去済みのデータを利用しています。<br>
 　　<https://www.kaggle.com/cdeotte/data-without-drift>
   
