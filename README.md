@@ -98,6 +98,8 @@ PyCaretとは直接関係ないですが、参考にしたい記事
 
 * [PythonとAutoMLメモ](https://qiita.com/calderarie/items/6188ce60c3e3dc2c6ba0)/[featuretoolsメモ](https://qiita.com/Hyperion13fleet/items/4eaca365f28049fe11c7)/[tsfreshメモ](https://qiita.com/KI1208/items/e27f827bac8654c9adcc)
 
+* [主成分分析（PCA）の累積寄与率で見る特徴量エンジニアリング](https://www.takapy.work/entry/2019/02/08/002738)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
