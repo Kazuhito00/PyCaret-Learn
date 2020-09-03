@@ -1,5 +1,5 @@
 # PyCaret-Learn
- PyCaretの勉強の記録です。
+ PyCaret(1.0)の勉強の記録です。
 
 # Requirement
  
